@@ -1,11 +1,12 @@
 was
 ===
 
-Its a new verb.  "Was it"
+It's a new verb.  "Was it" Was it fuzzy? Probably not. 
 
 
 Description:
 ============
+
 
 Stupid simple but useful tool to move a file/files or directory and
 move it/them back later.  Once you have this, you'll use it often,
